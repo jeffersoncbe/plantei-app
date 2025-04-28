@@ -11,7 +11,7 @@
     height: 200px;
     overflow: hidden;
     
-}
+} 
 
 #banner-hearder {
     width: 100%;
@@ -19,4 +19,21 @@
     object-fit: cover;
     object-position: center;
     
+}
+
+.carousel-dark {
+    width: 100%;
+    height: 300px;
+    overflow: hidden;
+    object-position: center;
+    
+}
+
+.img-thumbnail {
+    height: 100px;
+    height: 50px;
+
+
+
+
 }
