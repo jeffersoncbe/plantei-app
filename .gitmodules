@@ -1,0 +1,3 @@
+[submodule "plantei-app"]
+	path = plantei-app
+	url = https://github.com/jeffersoncbe/plantei-app.git
